@@ -1,0 +1,1 @@
+document.evaluate('/html/body/div[6]/div[4]/div[2]/div[2]/div[5]/div[2]/div/div[1]/span', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue.textContent = 'pepega';
